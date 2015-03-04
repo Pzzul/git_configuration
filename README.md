@@ -1,6 +1,6 @@
 # git\_configuration
 
-## The different configurations
+The different configurations
 
 + \*.gitignore: different ignore rule for * type
 
