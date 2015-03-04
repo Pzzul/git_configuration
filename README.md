@@ -1,7 +1,9 @@
-# git_configuration
+# git\_configuration
 
-The different configurations
+## The different configurations
 
-*.gitignore: different ignore rule for * type
++ \*.gitignore: different ignore rule for * type
 
-alias.config: the alias for git commands
++ alias.config: the alias for git commands
+
+clone URL: https://github.com/Pzzul/git\_configuration.git
