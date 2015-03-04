@@ -1,0 +1,12 @@
+# no .a and .o files
+*.[oa]
+
+# do track lib.a, even though ignoring .a files above
+!lib.a
+
+# no files end up with ~
+*~
+
+#ignore all files in the build/ directory
+build/
+
